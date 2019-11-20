@@ -1,5 +1,6 @@
 
 # Reverse-tethering-setup-Windows
+### Based on: https://github.com/Genymobile/gnirehtet
 One click windows to android internet connection (Opposite of Android USB Tethering)
 
 **How to use:**
@@ -24,9 +25,13 @@ Click OK
 
 
  App will be automatically installed on phone![This window will appear](help/client_app_install_and_start_app_with_broadcast.png
- )
+)
 
 A vpn request dialog will appear
 Accept it and vpn connection will start which will provide internet connection.
 
+Disconnect usb after use.
+![This window will appear](help/connection_starts_successfully_and_device_disconnect_after_use.png)
 
+If this window is kept open and device connected again, the process will start automatically.No manual work needed.
+Just launch once and keep minimized.
