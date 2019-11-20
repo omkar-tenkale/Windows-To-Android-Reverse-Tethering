@@ -1,6 +1,9 @@
 
 # Reverse-tethering-setup-Windows
 ### Based on: https://github.com/Genymobile/gnirehtet
+[<img src="https://github.com/omkar-tenkale/Reverse-tethering-setup-Windows/blob/master/download_btn.png">](https://github.com/omkar-tenkale/Reverse-tethering-setup-Windows/archive/master.zip)
+
+
 One click windows to android internet connection (Opposite of Android USB Tethering)
 
 What it does:
