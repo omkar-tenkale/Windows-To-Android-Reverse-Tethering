@@ -29,7 +29,9 @@ Enable USB debugging
  ![This window will appear](help/enable_usb_debugging_developer_options.png)
 
  A prompt will appear on your phone
- ![This window will appear](help/usb_debugging_prompt.png)
+ 
+![This window will appear](help/usb_debugging_prompt.png)
+ 
 Click OK
 
 
@@ -37,7 +39,16 @@ Click OK
 )
 
 A vpn request dialog will appear
+
+ ![VPN connection request](help/vpn_request.jpg)
+
 Accept it and vpn connection will start which will provide internet connection.
+
+ ![VPN connection started](help/vpn_started_internet_connected_indication.png)
+ 
+ **That's it. If you see this key icon in status bar means you are connected to pc and thus internet** 
+
+
 
 Disconnect usb after use.
 ![This window will appear](help/connection_starts_successfully_and_device_disconnect_after_use.png)
