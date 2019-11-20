@@ -3,7 +3,7 @@
 One click windows to android internet connection (Opposite of Android USB Tethering)
 
 **How to use:**
-[Download this repo zip](https://github.com/omkar-tenkale/Reverse-tethering-setup-Windows/archive/master.zip)
+[Download this repo zip ~9MB](https://github.com/omkar-tenkale/Reverse-tethering-setup-Windows/archive/master.zip)
 
 Extract the zip file and double click 
 **START_ME_gnirehtet-autorun.cmd**
