@@ -3,6 +3,15 @@
 ### Based on: https://github.com/Genymobile/gnirehtet
 One click windows to android internet connection (Opposite of Android USB Tethering)
 
+What it does:
+It helps in a situation where 
+1. Phone needs internet connection.
+2. PC has internet connection but doesn't have wifi/hotspot capability.
+3. You have a USB cable to connect phone to pc.
+4. You want to use pc's internet in your phone.
+
+You can simply follow the steps below to get a working internet connection on your phone. 
+
 **How to use:**
 [Download this repo zip ~9MB](https://github.com/omkar-tenkale/Reverse-tethering-setup-Windows/archive/master.zip)
 
