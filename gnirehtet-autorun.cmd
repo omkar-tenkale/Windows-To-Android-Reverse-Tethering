@@ -1,0 +1,2 @@
+@gnirehtet.exe autorun
+@pause
